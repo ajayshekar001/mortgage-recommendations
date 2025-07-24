@@ -2,7 +2,7 @@ from app.services.neo4j_knowledge_graph import Neo4jKnowledgeGraph
 import numpy as np
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))

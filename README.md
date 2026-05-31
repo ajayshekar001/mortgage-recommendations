@@ -1,3 +1,5 @@
+> **Note:** This project was originally developed in 2025-2025 and migrated from a previous GitHub account ([@AjayShekar01](https://github.com/AjayShekar01)) due to account access issues.
+
 # Loan Application Processing and Validation System
 
 A comprehensive system for processing loan applications and validating them against standard mortgage underwriting guidelines.
